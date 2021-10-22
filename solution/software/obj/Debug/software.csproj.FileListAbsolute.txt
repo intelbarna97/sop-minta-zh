@@ -1,0 +1,7 @@
+C:\Users\intel\Downloads\SOP HW\software\bin\Debug\software.exe.config
+C:\Users\intel\Downloads\SOP HW\software\bin\Debug\software.exe
+C:\Users\intel\Downloads\SOP HW\software\bin\Debug\software.pdb
+C:\Users\intel\Downloads\SOP HW\software\obj\Debug\software.csproj.AssemblyReference.cache
+C:\Users\intel\Downloads\SOP HW\software\obj\Debug\software.csproj.CoreCompileInputs.cache
+C:\Users\intel\Downloads\SOP HW\software\obj\Debug\software.exe
+C:\Users\intel\Downloads\SOP HW\software\obj\Debug\software.pdb

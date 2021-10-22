@@ -1,0 +1,10 @@
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\bin\Debug\SOP ZH 1.exe.config
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\bin\Debug\SOP ZH 1.exe
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\bin\Debug\SOP ZH 1.pdb
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP ZH 1.csproj.AssemblyReference.cache
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP_ZH_1.Form1.resources
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP_ZH_1.Properties.Resources.resources
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP ZH 1.csproj.GenerateResource.cache
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP ZH 1.csproj.CoreCompileInputs.cache
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP ZH 1.exe
+C:\Users\intel\Downloads\SOP HW\SOP ZH 1\obj\Debug\SOP ZH 1.pdb
